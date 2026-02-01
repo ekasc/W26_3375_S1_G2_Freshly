@@ -1,0 +1,41 @@
+# OS / filesystem
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office / PDF tooling temp files
+~$*
+*.tmp
+*.temp
+*.bak
+
+# LaTeX (if generating PDFs)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Build/output folders (common)
+build/
+dist/
+out/
